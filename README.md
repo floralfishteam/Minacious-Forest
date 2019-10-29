@@ -14,4 +14,4 @@ SECTIONS:
 - Projects: Here a list of to do things along with progress. Click on it to find out more in detail.
 - Wiki: A general outview of the different things in our game and the log. Adapting stuff from the main project .pdf
 
-ps: "commits" tab is just is a log of updates to this site itself.
+ps: "commits" tab is just is a log of updates to this site itself & latest commit thing is just the last thing that has been changed/uploaded
