@@ -15,3 +15,9 @@ SECTIONS:
 - Wiki: A general outview of the different things in our game and the log. Adapting stuff from the main project .pdf
 
 ps: "commits" tab is just is a log of updates to this site itself & latest commit thing is just the last thing that has been changed/uploaded
+
+FOLDERS:
+- docs: Documents about project.
+- img: Images. All the art and concept stuff.
+- music: Music.
+- #game-dev-zone (+FloralFish server) text log: Screenshots of things mentioned on server.
