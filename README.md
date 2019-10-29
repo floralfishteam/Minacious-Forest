@@ -1,4 +1,4 @@
-# 🌳Minacious-Forest🌳
+# 🌳Minacious Forest🌳
 
 This is the main archive/log for everything related to Minacious Forest. 
 
