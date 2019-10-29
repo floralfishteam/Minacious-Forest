@@ -16,7 +16,7 @@ SECTIONS:
 
 ps: "commits" tab is just is a log of updates to this site itself & latest commit thing is just the last thing that has been changed/uploaded
 
-FOLDERS:
+📁FOLDERS📁:
 - docs: Documents about project.
 - img: Images. All the art and concept stuff.
 - music: Music.
