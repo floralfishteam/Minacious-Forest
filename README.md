@@ -1,4 +1,4 @@
-# Minacious-Forest
+# 🌳Minacious-Forest🌳
 
 This is the main archive/log for everything related to Minacious Forest. 
 
@@ -6,7 +6,7 @@ Here we have organized all the information, music, art, etc we have so far when 
 
 Originally started by Seb on Google Drive - On GitHub any one of us can add things.
 
-WHEN UPLOADING A FILE BE SURE TO FIRST GO INTO THE FOLDER and then uploading.
+📿WHEN UPLOADING A FILE BE SURE TO FIRST GO INTO THE FOLDER and then uploading📿.
 
 SECTIONS:
 - "Code": This may be misleading, here is where all our stuff is, this the main archive tab.
