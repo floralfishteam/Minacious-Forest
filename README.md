@@ -13,3 +13,5 @@ SECTIONS:
 - Issues: Here you can post well issues with anything that can be reviewed and commented on. We could also use this as suggestions?
 - Projects: Here a list of to do things along with progress. Click on it to find out more in detail.
 - Wiki: A general outview of the different things in our game and the log. Adapting stuff from the main project .pdf
+
+ps: "commits" tab is just is a log of updates to this site itself.
